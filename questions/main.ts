@@ -1,10 +1,13 @@
+//PRACTICE QUESTIONS IN TYPESCRIPT
+
+
 // type command = "start"|"stop"|"pause"
 // // function excutecommand(command:command): void {
 // //     switch (command) {
 // //         case "start":
 // //             console.log("starting...");
 // //             break;
-// //         case "stop":
+// //         case "stop": 
 // //             console.log("stoping...");
 // //             break;
 // //             case "pause":
